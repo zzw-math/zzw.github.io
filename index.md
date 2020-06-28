@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## ZZW is alsome!
 
 You can use the [editor on GitHub](https://github.com/zzw-math/zzw.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
